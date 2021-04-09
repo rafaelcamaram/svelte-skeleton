@@ -1,0 +1,8 @@
+{
+  "name": "svelte-skeleton",
+  "license": "MIT",
+  "preset": "src/preset.ts",
+  "devDependencies": {
+    "apply": "^0.0.1"
+  }
+}
